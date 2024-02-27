@@ -4,7 +4,7 @@
 🔭 I'm a Backend Web Developer that has been in development since 2011. Started as a front-end developer but moved to backend development in the last 8 years using PHP/Symfony and other frameworks to find more challenging projects to work with big clients on multiple middle to large projects.  
   
 
-🌱 Around 2018 I regained interest in front-end projects, mostly because of interesting JavaScript frameworks like React, Nodejs and VueJS. Since then I have considered myself a proper full-stack developer, currently leaning towards both frontend and backend development.  
+🌱 Around 2018 I regained interest in front-end projects, mostly because of interesting JavaScript frameworks like React, NodeJS and VueJS. Since then I have considered myself a proper full-stack developer, currently leaning towards both frontend and backend development.  
   
 
 ⚡ I love sparring with UX/UI designers to create the best possible user experience with a strong ability to develop and debug existing PHP/Symfony/Laravel Applications and solid skills to integrate APIs. Loves to successfully translate the wishes of the client into a beautiful and innovative human-centred software product.  
